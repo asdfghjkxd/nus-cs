@@ -1,0 +1,33 @@
+[submodule "y0/CS1010X"]
+	path = y0/CS1010X
+	url = https://github.com/asdfghjkxd/CS1010X
+[submodule "y1/CS1101S"]
+	path = y1/CS1101S
+	url = https://github.com/asdfghjkxd/CS1101S
+[submodule "y1/CS2030S"]
+	path = y1/CS2030S
+	url = https://github.com/asdfghjkxd/CS2030S
+[submodule "y1/CS2040S"]
+	path = y1/CS2040S
+	url = https://github.com/asdfghjkxd/CS2040S
+[submodule "y1/ES2660"]
+	path = y1/ES2660
+	url = https://github.com/asdfghjkxd/ES2660
+[submodule "y1/GESS1003"]
+	path = y1/GESS1003
+	url = https://github.com/asdfghjkxd/GESS1003
+[submodule "y1/MA1521"]
+	path = y1/MA1521
+	url = https://github.com/asdfghjkxd/MA1521
+[submodule "y1/CS1231S"]
+	path = y1/CS1231S
+	url = https://github.com/asdfghjkxd/CS1231S
+[submodule "y1/GEA1000"]
+	path = y1/GEA1000
+	url = https://github.com/asdfghjkxd/GEA1000
+[submodule "y1/IS1108"]
+	path = y1/IS1108
+	url = https://github.com/asdfghjkxd/IS1108
+[submodule "y1/MA2001"]
+	path = y1/MA2001
+	url = https://github.com/asdfghjkxd/MA2001
