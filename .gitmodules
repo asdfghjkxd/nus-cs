@@ -31,3 +31,24 @@
 [submodule "y1/MA2001"]
 	path = y1/MA2001
 	url = https://github.com/asdfghjkxd/MA2001
+[submodule "y2/CFG1003"]
+	path = y2/CFG1003
+	url = https://github.com/asdfghjkxd/CFG1003
+[submodule "y2/CFG1004"]
+	path = y2/CFG1004
+	url = https://github.com/asdfghjkxd/CFG1004
+[submodule "y2/CS2100"]
+	path = y2/CS2100
+	url = https://github.com/asdfghjkxd/CS2100
+[submodule "y2/IS2218"]
+	path = y2/IS2218
+	url = https://github.com/asdfghjkxd/IS2218
+[submodule "y2/ST2334"]
+	path = y2/ST2334
+	url = https://github.com/asdfghjkxd/ST2334
+[submodule "y2/ip"]
+	path = y2/ip
+	url = https://github.com/asdfghjkxd/ip
+[submodule "y2/tp"]
+	path = y2/tp
+	url = https://github.com/asdfghjkxd/tp
